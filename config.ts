@@ -2,7 +2,7 @@ export const config = {
   host: "localhost",
   port: 5432,
   user: "postgres",
-  password: '6003cem',
+  password: '2319',
   database: "postgres",
   connection_limit: 100
 }
